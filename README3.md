@@ -32,7 +32,7 @@ Premium|5€/mes
 Processador: 1GHz
 RAM: 512MB
 
-##Compatibilitat
+## Compatibilitat
 Windows, MacOS, Linux
 
 ##Drets d'autor
