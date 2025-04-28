@@ -38,6 +38,6 @@ Windows, MacOS, Linux
 ## Drets d'autor
 **RetroGaming World 2025**
 
-##Suport
+## Suport
 Servei tècnic disponible 24h
 
