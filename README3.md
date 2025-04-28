@@ -28,7 +28,7 @@ Premium|5€/mes
 - Gràfics 8-bits autèntics
 - Mode cooperatiu
 
-##Requisits mínims
+## Requisits mínims
 Processador: 1GHz
 RAM: 512MB
 
