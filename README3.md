@@ -25,7 +25,7 @@ Bàsic|Gratis
 Premium|5€/mes
 
 ## Característiques destacades:
--Gràfics 8-bits autèntics
+- Gràfics 8-bits autèntics
 -Mode cooperatiu
 
 ##Requisits mínims
