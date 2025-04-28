@@ -26,7 +26,7 @@ Premium|5€/mes
 
 ## Característiques destacades:
 - Gràfics 8-bits autèntics
--Mode cooperatiu
+- Mode cooperatiu
 
 ##Requisits mínims
 Processador: 1GHz
